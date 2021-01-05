@@ -9,5 +9,13 @@ console.log(nome);
 
 /* NÃO fazer 
 mes = "Janeiro";
+
+Sempre seguir a boa prática de declaração de variáveis
+const idade = "29"
+var idade = "29";
+let idade = "29"
+
+
+
 */
  
